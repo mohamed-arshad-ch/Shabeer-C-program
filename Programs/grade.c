@@ -1,3 +1,5 @@
+/* Write a program to show the grade obtained by a student after he/she enters their total mark 
+percentage. */
 #include <stdio.h>
 
 void main()

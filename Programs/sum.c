@@ -1,3 +1,4 @@
+/* Accept two inputs from the user and output its sum */
 #include <stdio.h>
 
 void main()

@@ -1,3 +1,4 @@
+/* Write a program to find the sum of all the odd numbers for a given limit */
 #include <stdio.h>
 
 void main()

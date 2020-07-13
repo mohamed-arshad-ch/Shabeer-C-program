@@ -1,13 +1,16 @@
+/* Using the ‘switch case’ write a program to accept an input number from the user and output 
+the day as follows. */
+
 #include <stdio.h>
 
 void main()
 {
-    int i;
+    int choice;
 
     printf("Enter a number: \n");
-    scanf("%d", &i);
+    scanf("%d", &choice);
 
-    switch(i)
+    switch(choice)
     {
         case 1:
             printf("Sunday\n");

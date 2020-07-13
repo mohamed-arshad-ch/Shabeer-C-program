@@ -1,3 +1,4 @@
+/* Write a program to find the simple interest. */
 #include <stdio.h>
 
 void main()
